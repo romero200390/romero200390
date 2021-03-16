@@ -1,0 +1,100 @@
+header nav ul li{
+    float: right;
+    margin: 0.5cm;
+    padding: 15px 20px;
+    display: inline-block;
+
+}
+
+h1{
+
+
+text-align: center;
+padding: 10%;
+}
+
+div{
+
+
+margin-left: 0%;
+
+
+
+}
+
+
+*{
+
+padding: 0%;
+margin: 0%;
+
+}
+
+header{
+background-color: rgb(97, 199, 77);
+height: 90px;
+
+
+}
+
+.contenedor{
+
+margin-top: 0%;
+overflow: hidden;
+
+}
+
+header nav{
+
+width: 100%;
+
+}
+
+.barra img{
+
+padding: 1.5%;
+
+}
+
+
+.formatos{
+
+display: inline-block;
+margin-left: 35%;
+padding: 1%;
+margin-bottom: 3%;
+
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: darkcyan;
+    margin-left: 0%;
+    margin-right: 0%;
+
+
+}
+
+
+footer{
+
+
+    background-color: rgb(97, 199, 77);
+    margin-bottom: 0%;
+    margin-bottom: 0%;
+    padding: 1%;
+    overflow: hidden;
+}
+
+
+.barra li a{
+    color: white;
+
+
+}
+
+.barra li a:hover{
+
+background-color: blue;

@@ -1,0 +1,210 @@
+.noche{
+margin: 1%;
+margin-left: 12%;
+margin-right: 12%;
+
+}
+
+.header1{
+text-align: center;
+font-size: 300%;
+margin-top: 5%;
+
+
+}
+
+
+
+
+.barra li{
+
+    float: right;
+    margin: 0.5 cm;
+    padding: 15px 20px;
+    display: inline-block;
+
+}
+
+.barra li a{
+    color: white;
+
+
+}
+
+.barra li a:hover{
+
+background-color: blue;
+
+}
+
+.barra li{
+
+float: right;
+margin: 0.5cm;
+padding: 15px 20px;
+display: inline-block;}
+
+
+header nav{
+
+width: 100%;
+
+}
+
+header{
+
+background-color:  rgb(97, 199, 77);
+height: 90px;
+
+}
+
+
+*{
+margin: 0%;
+padding: 0%;
+
+
+}
+
+.barra img{
+padding: 1.5%;
+
+}
+
+
+.video1{
+
+
+height: 300px;
+margin-left: 30%;
+
+}
+
+
+.imagen-foto{
+
+width: 100%;
+padding: 0;
+margin: 0;
+margin-bottom: 10%;
+margin-top: 10%;
+
+
+
+}
+
+.productos{
+
+padding: 0;
+margin: 0;
+height: 100%;
+
+}
+
+.parrafo{
+
+padding: 0;
+margin: 12%;
+align-content: center;
+}
+
+.parrafo li{
+
+padding: 2%;
+text-align: inherit;
+font-size: 20px;
+
+}
+
+
+.imagen-foto img{
+
+height: 500px;
+align-content: center;
+margin-left: 30%;
+cursor: zoom-in;
+transform: scale3d(1.5, 1.5, 1.5);
+transition: transform 2s;
+object-fit: cover;
+
+}
+
+.imagen-foto b{
+text-align: center !important;
+display: block;
+padding: 5%;
+
+}
+
+.imagen-foto a{
+
+
+cursor: pointer;
+margin-left: 55%;
+font-size: 40px;
+margin: 100px;
+list-style: none;
+text-decoration: none;
+color: white;
+
+
+
+}
+
+
+.boton-buy-now{
+
+    border-radius: 10px;
+    margin-left: 35%;
+    background-color: slategray;
+
+
+}
+
+
+.boton-buy-now:hover{
+
+background-color: red ;
+
+}
+
+.imagen-foto a:hover{
+
+color: chartreuse;
+
+}
+
+
+
+.video-1{
+
+
+    margin: 0;
+    padding: 0;
+    margin-top: 10%;
+
+
+
+}
+
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: darkcyan;
+    margin-left: 0%;
+    margin-right: 0%;
+
+}
+
+
+.footer{
+
+    background-color: rgb(97, 199, 77);
+    margin-bottom: 0%;
+    margin-bottom: 0%;
+    padding: 1%;
+    overflow: hidden;
+
+}
